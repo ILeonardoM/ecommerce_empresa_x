@@ -41,5 +41,4 @@ __Melhoria 1__, _melhoria 2_
 
 Contribuidor principal: https://www.github.com/ILeonardoM
 
-![Logo do Naruto](img/naruto.jpg)](https://www.github.com/ILeonardoM
-)
+![Logo do Naruto](img/naruto.jpg)](https://www.github.com/ILeonardoM)
