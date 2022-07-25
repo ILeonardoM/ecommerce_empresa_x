@@ -35,4 +35,4 @@ __Melhoria 1__, _melhoria 2_
 
 ## Links interessantes:
 
-[Goggle](https://www.google.com)
+[Google](https://www.google.com)
