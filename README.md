@@ -32,3 +32,6 @@ __Melhoria 1__, _melhoria 2_
 #### Imagem local
 
 ![Logo do Naruto](img/naruto.jpg)
+
+#### IMAGEM EXTERNA
+![logo do naruto](https://quartoframe.com.br/os-maiores-usuarios-de-do-modo-sennin/)
